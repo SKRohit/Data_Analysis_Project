@@ -1,7 +1,7 @@
 # Data_Analysis_Project
 Code for data analysis project on Gujarat's schools' data.
 
-This is the code for data analysis project I worked on at IIT Gandhinagar during the summer break of 2016. I performed data cleaning, exploratory data analysis and data visualisation on 10 years (2005-2015) of schools' data of Gujarat.
+This is the code for data analysis project I completed at IIT Gandhinagar during the summer break of 2016. I performed data cleaning, exploratory data analysis and data visualisation on 10 years (2005-2015) of schools' data of Gujarat.
 
 
 For a quick and brief summary of my project you can check out the poster file **PROJECT_POSTER.pdf**. And for the code and data I used please check out **Data_Analysi_Proj folder**.
